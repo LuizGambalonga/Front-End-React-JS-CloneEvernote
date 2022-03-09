@@ -1,0 +1,14 @@
+1- Criar o Front: npx create-react-app javascript_note gera os arquivos base do React
+2- Iniciar o Server: npm start
+3- Instalar a biblioteca React Router DOM para renderização das Pages.
+3- npm i react-router-dom --save
+4- Axios para consulta a API: 
+5- NodeSASS: npm i node-sass --save
+6- Incluir o Bulma: npm i bulma --save
+7- Incluir o RBX do bulma: npm i rbx --save
+8- MomentJS : npm i moment --save
+9- FontAwesome para icones Free:
+npm i @fortawesome/fontawesome-svg-core --save
+npm i @fortawesome/free-solid-svg-icons --save
+npm i @fortawesome/react-fontawesome --save
+10- npm install react-burger-menu --save
